@@ -460,6 +460,10 @@ if (are_notices_pending()) {
 ?>
 <body id="<?=$numColumns?>">
 <nav id="topmenu" class="navbar navbar-<?=$menuclass?>-top navbar-inverse">
+
+    <h1>this is top menu </h1>
+
+
 	<div class="container">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#pf-navbar">
